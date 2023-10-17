@@ -1,3 +1,16 @@
+## The Game
+LCD 16 x 2 display is a road, it has 2 lanes, car's lane can be changed by buttons,
+car is located in the first LCD column, display is constantly shifting to the left,
+and generated obstacles are moving toward car, speed is increasing up to some value
+while the game remains playable, after collision with the obstacle game is over, enjoy :)
+
+<details>
+  <summary>Game video</summary>
+  
+https://github.com/jemcik/arduino-car-game/assets/4085099/3f54ca56-d838-45a5-8e7a-d3d2ba5b5df9
+  
+</details>
+
 ## Project is based on [Arduino Starter Kit](https://store.arduino.cc/products/arduino-starter-kit-multi-language) parts and its 16 x 2 [LCD screen](https://wiki-content.arduino.cc/documents/datasheets/LCDscreen.PDF)
 You will need:
 - Arduino board (UNO etc.)
